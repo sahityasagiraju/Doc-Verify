@@ -18,10 +18,10 @@ Certificates issued earlier cannot be modified later.
 2) After Uploading the document data is gathered, IPFS is given this data, and it applies its hashing algorithm.
 3)  This hash generated is stored in the IPFS along with the original Document.
 4) IPFS now passes this data to the Blockchain. After that, this hash is stored in the Blockchain and cannot be changed under normal circumstances. 
-6) Now the Student can send this hash or Student ID to various organizations. 
-7) The company can either type the hash or certificate ID in order to authenticate it. 
-8) The request is sent to the blockchain system and will gather the document from IPFS.
-9)The System will return the required Certificate.
+5) Now the Student can send this hash or Student ID to various organizations. 
+67) The company can either type the hash or certificate ID in order to authenticate it. 
+7) The request is sent to the blockchain system and will gather the document from IPFS.
+8)The System will return the required Certificate.
 
 **IPFS**
 
@@ -32,6 +32,7 @@ This creates an immutable data object which can be only accessed by the user wit
 Block IPFS provides data integrity, and an alternate solution for a decentralised data storage.
 
 ![image](https://user-images.githubusercontent.com/54180295/192447367-9f45dba6-b0ad-4f69-9df6-d19fe26ec5d8.png)
+
 
 
 
