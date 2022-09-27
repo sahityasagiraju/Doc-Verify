@@ -11,7 +11,6 @@ Certificates issued earlier cannot be modified later.
 2) Student: Students will be able to download and view digital documents. Students also receive the hash regarding the document issued for him, which in the future can be used to access the document and verify it. 
 
 3) Company/Recruiters : Company will be the user who will have access to regarding originality, authenticity, and integrity of the documents with the help of the digital signature of the document.
-![image](https://user-images.githubusercontent.com/54180295/192447334-e8bb4dc7-ac0a-47dc-be57-27dc49ec76d1.png)
 
 ![image](https://user-images.githubusercontent.com/54180295/192447169-c633c426-9521-4095-99b3-a96d6fe48968.png)
 
