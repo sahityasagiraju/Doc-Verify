@@ -34,22 +34,22 @@ Block IPFS provides data integrity, and an alternate solution for a decentralise
 ![image](https://user-images.githubusercontent.com/54180295/192447367-9f45dba6-b0ad-4f69-9df6-d19fe26ec5d8.png)
   
   
- SDK / API / DLL / Tools / Technologies Used :
+	 SDK / API / DLL / Tools / Technologies Used :
 
-SDK :
--    Visual Studio Code  (Open-Source)
-Goorm IDE  (Open-Source)
-Remix IDE  (Open-Source)
+	SDK :
+	-    Visual Studio Code  (Open-Source)
+	Goorm IDE  (Open-Source)
+	Remix IDE  (Open-Source)
 
-API:
-Infura IPFS (Open-Source)
-Ganache - Test Blockchain Network (Open-Source)
+	API:
+	Infura IPFS (Open-Source)
+	Ganache - Test Blockchain Network (Open-Source)
 
-DLL :
-Bootstrap (Open-Source)
-jQuery (Open-Source)
+	DLL :
+	Bootstrap (Open-Source)
+	jQuery (Open-Source)
 
-Tools Used :
+	Tools Used :
 	-    Metamask 
 	-    Truffle 
 	-    Node JS 
